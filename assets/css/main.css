@@ -202,7 +202,7 @@ select {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: rgb(2, 1, 1);
+    color: #888;
 }
 
 h1,
@@ -212,7 +212,7 @@ h4,
 h5,
 h6 {
     font-weight: 300;
-    color: rgb(0, 0, 0);
+    color: #888;
     line-height: 1.5em;
 }
 
@@ -232,21 +232,21 @@ h3 a strong,
 h4 a strong,
 h5 a strong,
 h6 a strong {
-    color: rgb(0, 0, 0);
+    color: #888;
 }
 
 h2 {
     font-size: 2em;
     letter-spacing: -1px;
-    color: black;
+    color: #888;
 }
 
 h2.alt {
-    color: rgb(0, 0, 0);
+    color: #888;
 }
 
 h2.alt strong {
-    color: rgb(0, 0, 0);
+    color: #888;
 }
 
 h3 {
@@ -316,7 +316,7 @@ blockquote {
 }
 
 p {
-    color: black;
+    color: #888;
 }
 
 p,

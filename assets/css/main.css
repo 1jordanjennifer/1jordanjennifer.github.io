@@ -315,6 +315,10 @@ blockquote {
     font-style: italic;
 }
 
+p {
+    color: black;
+}
+
 p,
 ul,
 ol,

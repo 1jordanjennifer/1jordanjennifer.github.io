@@ -202,7 +202,7 @@ select {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: rgb(2, 1, 1);
 }
 
 h1,
@@ -212,7 +212,7 @@ h4,
 h5,
 h6 {
     font-weight: 300;
-    color: rgb(17, 4, 4);
+    color: rgb(0, 0, 0);
     line-height: 1.5em;
 }
 
@@ -232,7 +232,7 @@ h3 a strong,
 h4 a strong,
 h5 a strong,
 h6 a strong {
-    color: #333;
+    color: rgb(0, 0, 0);
 }
 
 h2 {
@@ -242,11 +242,11 @@ h2 {
 }
 
 h2.alt {
-    color: #888;
+    color: rgb(0, 0, 0);
 }
 
 h2.alt strong {
-    color: #666;
+    color: rgb(0, 0, 0);
 }
 
 h3 {

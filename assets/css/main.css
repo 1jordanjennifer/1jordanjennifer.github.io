@@ -236,6 +236,7 @@ h6 a strong {
 }
 
 h2 {
+    font-family: lobster;
     font-size: 2em;
     letter-spacing: -1px;
     color: #888;
@@ -317,6 +318,7 @@ blockquote {
 
 p {
     color: #888;
+    font-family: lobster;
 }
 
 p,
